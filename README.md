@@ -46,6 +46,7 @@ To get started with this project, follow the instructions below.
 
    ```bash
    npm start
+   npm start dev to run with nodemon
    ```
 
    The server will start running on the specified port (`PORT`) or at default 5000.
