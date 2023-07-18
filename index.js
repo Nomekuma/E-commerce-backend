@@ -35,5 +35,5 @@ app.use("/api/checkout", stripeRoute);
 
 // Server
 app.listen(process.env.PORT || port, () => {
-  console.log(`Backend server is running Met_En_Couster_Astr`);
+  console.log(`Backend server is running`);
 });
